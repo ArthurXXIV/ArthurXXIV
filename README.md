@@ -7,7 +7,8 @@
 
 - 📫 How to reach me https://www.linkedin.com/in/atharva-nilawar-369514221/
 
-🏆 Achievements
+<h3>🏆 Achievements</h3>
+
 🎖️ Hackathon Winner: **Datathon 2.0 Winner**
 
 🎖️ Published Research: *Green Technology: Analyzing the Impact of High-Speed Rail in India*
