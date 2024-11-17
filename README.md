@@ -7,6 +7,14 @@
 
 - 📫 How to reach me https://www.linkedin.com/in/atharva-nilawar-369514221/
 
+🏆 Achievements
+🎖️ Hackathon Winner: **Datathon 2.0 Winner**
+🎖️ Published Research: *Green Technology: Analyzing the Impact of High-Speed Rail in India*
+**Authors:** Snehee Chheda, Anish Gharat, Atharva Akash Nilawar, Mahendra Parihar
+**Source Title:** Green Transition Impacts on the Economy, Society, and Environment
+**Copyright:** © 2024 | **Pages:** 19
+**DOI:** 10.4018/979-8-3693-3985-5.ch003.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
