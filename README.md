@@ -11,11 +11,11 @@
 
 🎖️ Hackathon Winner: **Datathon 2.0 Winner**
 
-🎖️ Published Research: *Green Technology: Analyzing the Impact of High-Speed Rail in India*
-**Authors:** Snehee Chheda, Anish Gharat, Atharva Akash Nilawar, Mahendra Parihar
-**Source Title:** Green Transition Impacts on the Economy, Society, and Environment
-**Copyright:** © 2024 | **Pages:** 19
-**DOI:** 10.4018/979-8-3693-3985-5.ch003.
+🎖️ Published Research: *Green Technology: Analyzing the Impact of High-Speed Rail in India*/n
+**Authors:** Snehee Chheda, Anish Gharat, Atharva Akash Nilawar, Mahendra Parihar/n
+**Source Title:** Green Transition Impacts on the Economy, Society, and Environment/n
+**Copyright:** © 2024 | **Pages:** 19/n
+**DOI:** 10.4018/979-8-3693-3985-5.ch003./n
 
 <h3 align="left">Connect with me: </h3>
 
