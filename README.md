@@ -17,7 +17,9 @@
 **Copyright:** © 2024 | **Pages:** 19
 **DOI:** 10.4018/979-8-3693-3985-5.ch003.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
+
+https://www.linkedin.com/in/atharva-nilawar-369514221/
 <p align="left">
 </p>
 
