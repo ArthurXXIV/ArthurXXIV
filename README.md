@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Time Series**
 
-- 🌱 I’m currently learning **Deep Learnin**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me https://www.linkedin.com/in/atharva-nilawar-369514221/
 
