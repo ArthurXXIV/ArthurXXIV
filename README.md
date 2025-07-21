@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharva Nilawar</h1>
 <h3 align="center">Welcome to my github profile, here's a glimpse into my world of tech, learning and problem solving</h3>
 
-- 🔭 I’m currently working on **Car recommendation chatbot using rag architecture**
+- 🔭 I’m currently working on **Time Series**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learnin**
 
 - 📫 How to reach me https://www.linkedin.com/in/atharva-nilawar-369514221/
 
